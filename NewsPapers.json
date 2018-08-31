@@ -1,0 +1,58 @@
+{
+	"nyt": {
+        "link": "https://www.nytimes.com"
+	},
+    "wsj": {
+        "link": "https://www.wsj.com"
+	},
+    "latimes": {
+        "link": "http://www.latimes.com"
+	},
+    "bostonglobe": {
+        "link": "https://www.bostonglobe.com"
+	},
+    "usa": {
+        "link": "https://www.usatoday.com"
+	},
+    "cnn": {
+        "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
+		"link": "http://edition.cnn.com/"
+	},
+    "msnbc": {
+        "rss": "http://www.msnbc.com/feeds/latest",
+        "link": "http://www.msnbc.com"
+	},
+    "npr": {
+        "link": "https://www.npr.org/sections/news/"
+	},
+	"bbc": {
+		"rss": "http://feeds.bbci.co.uk/news/rss.xml",
+		"link": "http://www.bbc.com/"
+	},
+    "huffpo": {
+		"link": "https://www.huffingtonpost.com"
+	},
+    "politico": {
+		"link": "https://www.politico.com"
+	},
+	"theguardian": {
+		"rss": "https://www.theguardian.com/uk/rss",
+		"link": "https://www.theguardian.com/international"
+	},
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "infowars": {
+    "link": "https://www.infowars.com/"
+  },
+  "foxnews": {
+    "link": "http://www.foxnews.com/"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "washingtonpost": {
+    "rss": "http://feeds.washingtonpost.com/rss/world",
+    "link": "https://www.washingtonpost.com/"
+  }
+}
